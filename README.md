@@ -11,7 +11,8 @@ making some shit
 - [ ] View followers tweets
 
 ### TODO
-- [ ] Install PostgreSQL and setup database tables for tweets and users
+- [X] Install PostgreSQL
+- [ ] Setup database tables for tweets and users
 - [ ] Create routines to do database lookups and insertions/deletions
 - [ ] Create HTML for the routes UI
 - [ ] Create HTTP routes listed above
